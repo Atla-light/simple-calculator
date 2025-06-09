@@ -50,7 +50,7 @@ button{
 .operator{
     color:#0ae00a;
 }
-/* @media screen and (max-width: 515px) {
+@media screen and (max-width: 515px) {
         body{
     width:auto;
     height:auto;
@@ -86,8 +86,8 @@ button{
     input{
     width:230px;
     }
-} */
-/* @media screen and (max-width: 334px) {
+}
+@media screen and (max-width: 334px) {
     .calculator{
     padding:0;
 }
@@ -103,4 +103,4 @@ button{
     margin: 6px;
     font-size:16px;
 }
-} */
+}
